@@ -2,16 +2,16 @@
 
 [![Website Badge](https://img.shields.io/badge/-@richardiyevhobu.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://richardiyevhobu.com)](https://richardiyevhobu.com) [![Linkedin Badge](https://img.shields.io/badge/-richardiyevhobu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-iyevhobu)](https://www.linkedin.com/in/richard-iyevhobu) [![Twitter Badge](https://img.shields.io/badge/-@richard__jim-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/richard__jim)](https://twitter.com/richard__jim)
 
-I'm a Software Engineer, An Aspiring Content Creator. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
+I'm a seasoned Software Engineer with a passion for knowledge sharing, documentation, and expertise in web engineering. I specialize in Jamstack, headless commerce, and more. Here's a brief overview:
 
-**Here's a quick summary about me**:
+**About Me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying software engineering.
-- 🌱 I’m currently learning JavaScript, Reactjs, Vuejs, and Php Laravel.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing richardiyevhobu@gmail.com.
+- 💡 Fun fact: I hold substantial experience as a software engineer.
+- 🌱 Currently, I'm expanding my expertise in JavaScript, React.js, Vue.js, NestJS, TypeScript, and Node.js,Php laravel & Java.
+- 😊 I'm open to collaborating on open source projects, hackathons, and exploring new opportunities at the senior engineer level.
+- 💼 Professional Interests: Software Engineer with a focus on web technologies, including Jamstack and headless commerce.
+- 📫 For further details, you can [view my resume](#) or reach out via email at richardiyevhobu@gmail.com.
 
 ---
 
