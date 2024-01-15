@@ -8,7 +8,7 @@ I'm a seasoned Software Engineer with a passion for knowledge sharing, documenta
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I hold substantial experience as a software engineer.
-- 🌱 Currently, I'm expanding my expertise in JavaScript, React.js, Vue.js, NestJS, TypeScript, and Node.js,Php laravel & Java.
+- 🌱 Currently, I'm expanding my expertise in JavaScript, React.js, Vue.js, NestJS, TypeScript, and Node.js,Php laravel & Java Spring boot.
 - 😊 I'm open to collaborating on open source projects, hackathons, and exploring new opportunities at the senior engineer level.
 - 💼 Professional Interests: Software Engineer with a focus on web technologies, including Jamstack and headless commerce.
 - 📫 For further details, you can [view my resume](#) or reach out via email at richardiyevhobu@gmail.com.
